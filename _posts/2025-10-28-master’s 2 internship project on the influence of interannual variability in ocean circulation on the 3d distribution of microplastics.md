@@ -1,6 +1,8 @@
 ---
 title: "Master’s 2 internship project on the influence of interannual variability in ocean circulation on the 3D distribution of microplastics"
 ---
+<img src="{%  link images/pub_stage_interannuel.jpg %}" alt="Visual description of subject" width="500">  
+
 **Context**  
 Microplastics (MPs, <5 mm) are a pervasive pollutant found throughout the global ocean — from coastal zones to deep-sea trenches (Auta et al., 2017). Their transport and accumulation are strongly shaped by ocean circulation. Numerous modeling studies have investigated the physical processes driving MPs distribution in the ocean (Huck et al., 2022; Richon et al., 2022; van der Mheen et al., 2019). These studies revealed that processes such as Stokes drifts, convergence pathways and convective mixing influence the distribution of MPs and its partition between surface and sub-surface layers. However, the influence of interannual to decadal climate variability (e.g., ENSO, NAO, climate change) on MP distribution remains unexplored, despite emerging evidence of significant interactions  (Goddijn-Murphy et al., 2025). 
 
