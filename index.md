@@ -1,8 +1,24 @@
 ---
-title: Accueil
+title: "Home"
 order: 0
+in_menu: true
 ---
+# Welcome to my page !
+<img src="{% link images/Richon_Camille-main.jpg %}" alt="Portrait Picture of Camille Richon" width="250">I am Dr Camille Richon, a biogeochemical oceanographer, currently working as a CNRS researcher at LEMAR in Brest, France. 
+My main research interests focus on anthropogenic impacts on ocean biogeochemistry. 
 
-# L'Échappée Belle
+I use numerical models, at global or regional scales, to decipher complex interactions between climate, pollution and biogeochemical tracers (nutrients, plankton...). 
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+My current research projects mostly focus on microplastic pollution and its impacts on the global ocean ecosystems and biogeochemical functioning.
+
+**Bluesky: @camocean.bsky.social**  
+**email: camille dot richon at univ-brest.fr**
+
+ <img src="{% link images/wordcloud_october2025(1).jpg %}" alt="Wordcloud" width="800">
+
+# Job & Collaboration opportunities ! 
+I am always open to new collaborations! If you are a student, postdoc or a more established colleague looking for collaboration, please get in touch :)
+
+Don't forget to look at the [Open Positions](https://crichon-lemar.github.io/crichon-lemar/open%20positions.html) page on this site to see funded positions within my lab. 
+
+This website was created using [Scribouilli](https://scribouilli.org/) 
