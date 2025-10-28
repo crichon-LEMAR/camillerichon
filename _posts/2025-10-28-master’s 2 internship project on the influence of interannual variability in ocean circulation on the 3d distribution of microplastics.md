@@ -6,8 +6,8 @@ Microplastics (MPs, <5 mm) are a pervasive pollutant found throughout the global
 
 **Objectives**  
 This internship aims to investigate how interannual variability in ocean circulation influences the 3D global distribution of microplastics. Specifically, the student will:
-Implement and run global ocean simulations with the NEMO/PISCES-PLASTIC model, developed by the host team;
-Analyze simulation outputs (in NetCDF format) to quantify how varying climate conditions (past, present, and future) affect MP distribution patterns and accumulation zones.
+- Implement and run global ocean simulations with the NEMO/PISCES-PLASTIC model, developed by the host team;
+- Analyze simulation outputs (in NetCDF format) to quantify how varying climate conditions (past, present, and future) affect MP distribution patterns and accumulation zones.
 
 **Work Environment**  
 The internship will take place at the Laboratoire d’Océanographie Physique et Spatiale (LOPS) in Brest, France for a duration of 6 months. The student will work with the NEMO/PISCES-PLASTIC global ocean model, which simulates the 3D transport of microplastics of different shapes and densities. The project is related to Anne Gaymard’s PhD on modeling the distribution and impacts of microplastics of various morphologies in the global ocean and will be co-supervised by Anne Gaymard, Thomas Gorgues, and Camille Richon.
@@ -16,9 +16,9 @@ The internship will take place at the Laboratoire d’Océanographie Physique et
 This internship will provide new insights into how interannual and decadal ocean variability modulates the transport and accumulation of microplastics. The results could improve our understanding of observed MP patterns and inform future projections under changing climate conditions.
 
 **Candidate Profile**  
-Master’s 2 student in oceanography, climate sciences, environmental physics, or applied mathematics
-Experience with numerical modeling, Python, and NetCDF data analysis
-Strong interest in physical oceanography and climate variability
+- Master’s 2 student in oceanography, climate sciences, environmental physics, or applied mathematics
+- Experience with numerical modeling, Python, and NetCDF data analysis
+- Strong interest in physical oceanography and climate variability
 
 **Contacts**  
 Thomas Gorgues - thomas.gorgues[at]ird.fr
