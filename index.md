@@ -19,6 +19,6 @@ My current research projects mostly focus on microplastic pollution and its impa
 # Job & Collaboration opportunities ! 
 I am always open to new collaborations! If you are a student, postdoc or a more established colleague looking for collaboration, please get in touch :)
 
-Don't forget to look at the [Open Positions](https://crichon-lemar.github.io/crichon-lemar/open%20positions.html) page on this site to see funded positions within my lab. 
+Don't forget to look at the [Open Positions](https://camillerichon.github.io/crichon-lemar/open%20positions.html) page on this site to see funded positions within my lab. 
 
 This website was created using [Scribouilli](https://scribouilli.org/) 
