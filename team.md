@@ -19,4 +19,4 @@ in_menu: true
 ### Master students
 - Anne Gaymard (now PhD student)
 - Alix Delalande
-- [Raphael Bajon](https://www.researchgate.net/profile/Raphael-Bajon) (PhD graduate, now Postdoc at University of Hawaii) 
+- [Raphael Bajon](https://www.researchgate.net/profile/Raphael-Bajon) (now at University of Hawaii) 
