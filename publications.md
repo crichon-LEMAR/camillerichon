@@ -37,9 +37,9 @@ Marine Pollution Bulletin. DOi: 10.1016/j.marpolbul.2022.114533
 
 - Legacy oceanic plastic pollution must be addressed to mitigate possible long‑term ecological impacts  
 **Camille Richon**, Karin Kvale, Laurent Lebreton, Matthias Egger
-Microplastics and Nanoplastics. DOi: 10.1186/s43591-023-00074-2
+Microplastics and Nanoplastics. DOi: 10.1186/s43591-023-00074-2  
 
-### 2022
+### 2022  
 - Zooplankton exposure to microplastics at global scale: Influence of vertical distribution and seasonality  
 **Camille Richon**, Thomas Gorgues, Ika Paul‑Pont, Christophe Maes
 Frontiers in Marine Science. DOi: 10.3389/fmars.2022.947309
