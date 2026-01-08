@@ -86,16 +86,6 @@ Mediterranean Sea
 Benoı̂t Laurent, Cécile Guieu, Patrick Raimbault, Jonathan Beuvier
 Progress in Oceanography. [full text](https://doi.org/10.1016/j.pocean.2017.04.009)
 
-## Educational and Creative Communications
-<p align="center"><img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="250"> 
-</p
-C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
-Prazuck, Les Essais de la Sorbonne, 178 pages, ISBN:9791023107975
-
-<p align="center"><img src="{% link images/climat-tic-tac.png %}" alt="Boîte du jeu climatic tac chez Bioviva" width="250">
- </p  
-Collectif Climatic‑Tac, ”Climatic‑Tac” (2021), Boardgame on climate change, Editions Bioviva [https://climatictac.ipsl.fr/](https://climatictac.ipsl.fr/)   
-
 
 ## Preprints
 - MPsizeBase: a database for particle size distributed environmental microplastic data  
@@ -103,3 +93,14 @@ Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakov
 
 - The faecal microplastic pump: zooplankton efficiently transport microplastics to the ocean depths  
 **Camille Richon**, Thomas Gorgues, Matthew Cole, Olivier Aumont. In Revision for Environmental Pollution, [full text](https://dx.doi.org/10.2139/ssrn.5958729) 
+
+
+## Educational and Creative Communications
+<p align="center"><img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="250"> 
+</p
+C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
+Prazuck, Les Essais de la Sorbonne, 178 pages, ISBN:9791023107975
+
+<p align="center"><img src="{% link images/climat-tic-tac.png %}" alt="Boîte du jeu climatic tac chez Bioviva" width="300">
+ </p  
+Collectif Climatic‑Tac, ”Climatic‑Tac” (2021), Boardgame on climate change, Editions Bioviva [https://climatictac.ipsl.fr/](https://climatictac.ipsl.fr/) 
