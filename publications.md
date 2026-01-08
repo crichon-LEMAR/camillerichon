@@ -86,6 +86,7 @@ Mediterranean Sea
 Benoı̂t Laurent, Cécile Guieu, Patrick Raimbault, Jonathan Beuvier
 Progress in Oceanography. [full text](https://doi.org/10.1016/j.pocean.2017.04.009)
 
+------------------------------------------
 
 ## Preprints
 - MPsizeBase: a database for particle size distributed environmental microplastic data  
@@ -96,6 +97,8 @@ Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakov
 
 - Using the power law size distribution to extrapolate and compare microplastic number and mass concentrations in environmental media  
 Théo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, **Camille Richon**, Hélène Angot, Jennie L. Thomas, Jeroen E. Sonke. In Revision for Microplastics and Nanoplastics, [full text](https://doi.org/10.21203/rs.3.rs-8524083/v1) 
+
+-------------------------------------------------------------
 
 ## Educational and Creative Communications
 <p align="center"><img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="250"> 
