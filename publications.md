@@ -39,7 +39,7 @@ Marine Pollution Bulletin. https://doi.org/10.1016/j.marpolbul.2022.114533
 **Camille Richon**, Karin Kvale, Laurent Lebreton, Matthias Egger
 Microplastics and Nanoplastics. https://doi.org/10.1186/s43591-023-00074-2
 
-### 2022  
+### 2022
 - Zooplankton exposure to microplastics at global scale: Influence of vertical distribution and seasonality  
 **Camille Richon**, Thomas Gorgues, Ika Paul‑Pont, Christophe Maes
 Frontiers in Marine Science. https://doi.org/10.3389/fmars.2022.947309
@@ -87,6 +87,9 @@ Benoı̂t Laurent, Cécile Guieu, Patrick Raimbault, Jonathan Beuvier
 Progress in Oceanography. https://doi.org/10.1016/j.pocean.2017.04.009 
 
 ## Educational and Creative Communications
+| C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
+Prazuck, Les Essais de la Sorbonne, 178 pages, ISBN:9791023107975  | <img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="100">  | <img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="100"> 
+
 - C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
 Prazuck, Les Essais de la Sorbonne, 178 pages, ISBN:9791023107975
 <img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="100"> 
