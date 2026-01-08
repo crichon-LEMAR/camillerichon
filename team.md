@@ -3,11 +3,8 @@ title: "Team"
 order: 1
 in_menu: true
 ---
-_____________________
-_____________________________
-
-# Current research group members
-
+Current research group members
+=======================
 ---------------------
 [Dr Camille Richon](https://www-iuem.univ-brest.fr/lemar/equipe/richon_camille/) - Group PI
 ## Postdocs
