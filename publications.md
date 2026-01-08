@@ -46,7 +46,7 @@ Frontiers in Marine Science. [full text](https://doi.org/10.3389/fmars.2022.9473
 
 - Sources, sinks, and cycling of dissolved organic copper binding ligands in the ocean  
 Angel Ruacho, **Camille Richon**, Hannah Whitby, Randelle M. Bundy
-Communications Earth & Environment. [full text](https://doi.org/10.1038/)s43247-022-00597-1
+Communications Earth & Environment. [full text](https://doi.org/10.1038/s43247-022-00597-1)
 
 ### 2021
 - Biogeochemical feedbacks associated with the response of micronutrient recycling by zooplankton to climate change  
@@ -87,12 +87,10 @@ Benoı̂t Laurent, Cécile Guieu, Patrick Raimbault, Jonathan Beuvier
 Progress in Oceanography. [full text](https://doi.org/10.1016/j.pocean.2017.04.009)
 
 ## Educational and Creative Communications
-| C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
-Prazuck, Les Essais de la Sorbonne, 178 pages, ISBN:9791023107975  | <img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="100">  | 
-
-- C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
+<p align="center"><img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="100"> </p>
+C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
 Prazuck, Les Essais de la Sorbonne, 178 pages, ISBN:9791023107975
-<img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="100"> 
+
 
 - Collectif Climatic‑Tac, ”Climatic‑Tac” (2021), Boardgame on climate change, Editions Bioviva (https://climatictac.ipsl.fr/) 
 
