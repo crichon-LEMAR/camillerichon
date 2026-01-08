@@ -89,6 +89,7 @@ Progress in Oceanography. https://doi.org/10.1016/j.pocean.2017.04.009
 ## Educational and Creative Communications
 - C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
 Prazuck, Les Essais de la Sorbonne, 178 pages, ISBN:9791023107975
+img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="100">
 
 - Collectif Climatic‑Tac, ”Climatic‑Tac” (2021), Boardgame on climate change, Editions Bioviva (https://climatictac.ipsl.fr/) 
 
