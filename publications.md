@@ -94,6 +94,8 @@ Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakov
 - The faecal microplastic pump: zooplankton efficiently transport microplastics to the ocean depths  
 **Camille Richon**, Thomas Gorgues, Matthew Cole, Olivier Aumont. In Revision for Environmental Pollution, [full text](https://dx.doi.org/10.2139/ssrn.5958729) 
 
+- Using the power law size distribution to extrapolate and compare microplastic number and mass concentrations in environmental media  
+Théo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, **Camille Richon**, Hélène Angot, Jennie L. Thomas, Jeroen E. Sonke. In Revision for Microplastics and Nanoplastics, [full text](https://doi.org/10.21203/rs.3.rs-8524083/v1) 
 
 ## Educational and Creative Communications
 <p align="center"><img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="250"> 
