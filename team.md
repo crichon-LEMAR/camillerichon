@@ -14,9 +14,9 @@ in_menu: true
 - [Anne Gaymard](https://www.umr-lops.fr/en/Research/Ongoing-PhD-projects/Anne-Gaymard)
 
 ## Master Students
-- Emma Morales
+- [Emma Morales](https://fr.linkedin.com/in/emma-morales-b262b6260)
 - Adrien Puisségur
-- Julie Dutoict
+- [Julie Dutoict](https://fr.linkedin.com/in/julie-dutoict-19a1a9354)
 
 ----------------------
 
