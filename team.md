@@ -3,7 +3,6 @@ title: "Team"
 order: 1
 in_menu: true
 ---
-=======================
 # Current research group members
 
 ---------------------
@@ -13,6 +12,11 @@ in_menu: true
 
 ## PhD Students
 - [Anne Gaymard](https://www.umr-lops.fr/en/Research/Ongoing-PhD-projects/Anne-Gaymard)
+
+## Master Students
+- Emma Morales
+- Adrien Puisségur
+- Julie Dutoict
 
 ----------------------
 
