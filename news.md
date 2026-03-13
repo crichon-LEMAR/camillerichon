@@ -12,7 +12,7 @@ blog_index: true
 {% for post in site.posts %}
 <article class="blog-item">
   <h2>
-    {{ post.title }}
+    {{ Listen: Radio interviews on plastic pollution }}
   </h2>
 
   <a href="{{post.url | relative_url}}"> Lire l'article <span aria-hidden="true">➞</span></a>
