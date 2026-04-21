@@ -5,6 +5,9 @@ in_menu: true
 ---
 ## Peer-reviewed articles 
 Full updated list [here](https://scholar.google.com/citations?user=HpseYvUAAAAJ&hl=fr)
+### 2026
+- The faecal microplastic pump: Zooplankton efficiently transport microplastics to the ocean depths. 
+**Camille Richon**, Thomas Gorgues, Matthew Cole, & Olivier Aumont, (2026). Environmental Pollution, 128070. [full text](https://www.sciencedirect.com/science/article/pii/S0269749126004409?casa_token=mIH2eEZjh4cAAAAA:vv4YXlg80xb0WN1wEvZw-iw5BX6Ab3OrHaD3Gr-CFFHtgEbF0ftXOI3GjlEEe1nXv8L0Sv2_-so)
 
 ### 2025 
 - Evaluating the environmental impact of cleaning the North Pacific Garbage Patch  
