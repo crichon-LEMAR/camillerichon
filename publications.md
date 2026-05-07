@@ -95,9 +95,6 @@ Progress in Oceanography. [full text](https://doi.org/10.1016/j.pocean.2017.04.0
 - MPsizeBase: a database for particle size distributed environmental microplastic data  
 Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakovenko, Henar Margenat, Oskar Hagelskjaer, Sajjad Abbasi, Silvia Bucci, **Camille Richon**, Helene Angot, Jennie Thomas, Gael Le Roux. EarthArXiv. [full text](https://doi.org/10.31223/X5XX7R)
 
-- The faecal microplastic pump: zooplankton efficiently transport microplastics to the ocean depths  
-**Camille Richon**, Thomas Gorgues, Matthew Cole, Olivier Aumont. In Revision for Environmental Pollution, [full text](https://dx.doi.org/10.2139/ssrn.5958729) 
-
 - Using the power law size distribution to extrapolate and compare microplastic number and mass concentrations in environmental media  
 Théo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, **Camille Richon**, Hélène Angot, Jennie L. Thomas, Jeroen E. Sonke. In Revision for Microplastics and Nanoplastics, [full text](https://doi.org/10.21203/rs.3.rs-8524083/v1) 
 
