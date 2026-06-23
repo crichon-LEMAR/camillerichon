@@ -4,7 +4,8 @@ order: 4
 in_menu: true
 ---
 ## Current Projects
-# Simple Experiments for estimating microplastic sinks (SIMPLEX)
+# SIMPLEX
+#### _SIMPLe EXperiments for estimating microplastic sinks_ 
 The global oceanic budget for microplastics, estimated from extrapolation of measurements and global models, is far from accurate. Different estimates of sources, transfer and stocks of MPs vary by orders of magnitude. These uncertainties hamper the development of mitigation measures and limit our capacity to evaluate microplastic impacts on ocean ecosystems. Uncertainties in microplastic budget cal-
 culations stem from uncertainties in global estimates of land-to-ocean microplastic
 fluxes and misrepresentations of microplastic sinks. 
