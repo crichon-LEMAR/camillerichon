@@ -6,8 +6,11 @@ in_menu: true
 ## Peer-reviewed articles 
 Full updated list [here](https://scholar.google.com/citations?user=HpseYvUAAAAJ&hl=fr)
 ### 2026
+- Using the power law size distribution to extrapolate and compare microplastic number and mass concentrations in environmental media.
+Théo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, **Camille Richon**, Hélène Angot, Jennie L. Thomas & Jeroen E. Sonke (2026). Microplastics & Nanoplastics. [full text](https://doi.org/10.1186/s43591-026-00205-5)
+
 - The faecal microplastic pump: Zooplankton efficiently transport microplastics to the ocean depths. 
-**Camille Richon**, Thomas Gorgues, Matthew Cole, & Olivier Aumont, (2026). Environmental Pollution, 128070. [full text](https://www.sciencedirect.com/science/article/pii/S0269749126004409?casa_token=mIH2eEZjh4cAAAAA:vv4YXlg80xb0WN1wEvZw-iw5BX6Ab3OrHaD3Gr-CFFHtgEbF0ftXOI3GjlEEe1nXv8L0Sv2_-so)
+**Camille Richon**, Thomas Gorgues, Matthew Cole, & Olivier Aumont, (2026). Environmental Pollution. [full text](https://www.sciencedirect.com/science/article/pii/S0269749126004409?casa_token=mIH2eEZjh4cAAAAA:vv4YXlg80xb0WN1wEvZw-iw5BX6Ab3OrHaD3Gr-CFFHtgEbF0ftXOI3GjlEEe1nXv8L0Sv2_-so)
 
 ### 2025 
 - Evaluating the environmental impact of cleaning the North Pacific Garbage Patch  
