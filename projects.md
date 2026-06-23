@@ -4,6 +4,15 @@ order: 4
 in_menu: true
 ---
 ## Current Projects
+# Simple Experiments for estimating microplastic sinks (SIMPLEX)
+The global oceanic budget for microplastics, estimated from extrapolation of measurements and global models, is far from accurate. Different estimates of sources, transfer and stocks of MPs vary by orders of magnitude. These uncertainties hamper the development of mitigation measures and limit our capacity to evaluate microplastic impacts on ocean ecosystems. Uncertainties in microplastic budget cal-
+culations stem from uncertainties in global estimates of land-to-ocean microplastic
+fluxes and misrepresentations of microplastic sinks. 
+
+In particular, coastal and sedimentary processes lead to retention and trapping of microplastics, which may significantly affect the budget in the open ocean. Such complex processes are currently largely overlooked in global ocean models. 
+
+In this context, the SIMPLEX project aims at proposing first order estimates of coastal and sedimentary microplastic sinks by using simple parametrizations in global models. 
+
 # PREVENT <img src="{% link images/logo.jpeg %}" alt="Logo du PPR PREVENT" width="100">
 
 PREVENT studies the oceanic exposome and the combined effects of historical and emerging pollutants on marine organisms and ecosystems.
