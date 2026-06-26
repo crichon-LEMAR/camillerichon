@@ -19,13 +19,14 @@ in_menu: true
   _SIMPLEX Project_ 
 
 - Adrien Puisségur
-- [Julie Dutoict](https://fr.linkedin.com/in/julie-dutoict-19a1a9354)
+
 
 ----------------------
 
 # Past research group members
 
 ## Master students
+- [Julie Dutoict](https://fr.linkedin.com/in/julie-dutoict-19a1a9354)
 - Anne Gaymard (now PhD student)
 - Alix Delalande _VERTIGO Project_ 
 - [Raphael Bajon](https://www.researchgate.net/profile/Raphael-Bajon) (now at University of Hawaii) 
