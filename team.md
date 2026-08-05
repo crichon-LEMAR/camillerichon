@@ -15,8 +15,6 @@ in_menu: true
 - [Anne Gaymard](https://www.umr-lops.fr/en/Research/Ongoing-PhD-projects/Anne-Gaymard)
 
 ## Master Students
-
-
 - Adrien Puisségur
 
 
