@@ -11,7 +11,6 @@ I use numerical models, at global or regional scales, to decipher complex intera
 
 My current research projects mostly focus on microplastic pollution and its impacts on the global ocean ecosystems and biogeochemical functioning.
 
-**Bluesky: @camocean.bsky.social**  
 **email: camille dot richon at univ-brest.fr**
 
 ### New article out! [Check out the latest news](https://crichon-lemar.github.io/camillerichon/news.html)
