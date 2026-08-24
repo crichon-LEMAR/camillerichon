@@ -14,9 +14,6 @@ in_menu: true
 ## PhD Students
 - [Anne Gaymard](https://www.umr-lops.fr/en/Research/Ongoing-PhD-projects/Anne-Gaymard)
 
-## Master Students
-
-
 
 ----------------------
 
