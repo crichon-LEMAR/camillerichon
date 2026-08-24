@@ -15,7 +15,7 @@ in_menu: true
 - [Anne Gaymard](https://www.umr-lops.fr/en/Research/Ongoing-PhD-projects/Anne-Gaymard)
 
 ## Master Students
-- Adrien Puisségur
+
 
 
 ----------------------
@@ -23,6 +23,7 @@ in_menu: true
 # Past research group members
 
 ## Master students
+- Adrien Puisségur
 - [Emma Morales](https://fr.linkedin.com/in/emma-morales-b262b6260) 
   _SIMPLEX Project_ 
 - [Julie Dutoict](https://fr.linkedin.com/in/julie-dutoict-19a1a9354)
