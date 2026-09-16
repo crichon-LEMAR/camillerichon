@@ -6,90 +6,99 @@ in_menu: true
 ## Peer-reviewed articles 
 Full updated list [here](https://scholar.google.com/citations?user=HpseYvUAAAAJ&hl=fr)
 ### 2026
-- Using the power law size distribution to extrapolate and compare microplastic number and mass concentrations in environmental media.
-Théo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, **Camille Richon**, Hélène Angot, Jennie L. Thomas & Jeroen E. Sonke (2026). Microplastics & Nanoplastics. [full text](https://doi.org/10.1186/s43591-026-00205-5)
+- _From mercury to plastics: Earth system science and governance strategies_.  
+Dong Peng, Xinle Wang, Helene Angot, Michael S. Bank, Silvia Bucci, Hancheng Dai, Jianhua Gao, Roland Geyer, Xianda Gong, Gael Le Roux, Laurent C. M. Lebreton, Ting Lei, Daoji Li, Maodian Liu, Yurong Liu, **Camille Richon**, Amina Schartup, Huizhong Shen, Zhengcheng Song, Jeroen E. Sonke, Tim van Emmerik, Xuejun Wang, Peipei Wu, Qingru Wu, Xiang-Rong Xu, Xinyue Ye, Eddy Y. Zeng & Yanxu Zhang  
+npj Emerging Contaminants [full text](https://www.nature.com/articles/s44454-026-00056-y)
 
-- The faecal microplastic pump: Zooplankton efficiently transport microplastics to the ocean depths. 
-**Camille Richon**, Thomas Gorgues, Matthew Cole, & Olivier Aumont, (2026). Environmental Pollution. [full text](https://www.sciencedirect.com/science/article/pii/S0269749126004409?casa_token=mIH2eEZjh4cAAAAA:vv4YXlg80xb0WN1wEvZw-iw5BX6Ab3OrHaD3Gr-CFFHtgEbF0ftXOI3GjlEEe1nXv8L0Sv2_-so)
+- _Using the power law size distribution to extrapolate and compare microplastic number and mass concentrations in environmental media_.  
+Théo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, **Camille Richon**, Hélène Angot, Jennie L. Thomas & Jeroen E. Sonke  
+Microplastics & Nanoplastics. [full text](https://doi.org/10.1186/s43591-026-00205-5)
+
+- _The faecal microplastic pump: Zooplankton efficiently transport microplastics to the ocean depths_.   
+**Camille Richon**, Thomas Gorgues, Matthew Cole, & Olivier Aumont   Environmental Pollution. [full text](https://www.sciencedirect.com/science/article/pii/S0269749126004409?casa_token=mIH2eEZjh4cAAAAA:vv4YXlg80xb0WN1wEvZw-iw5BX6Ab3OrHaD3Gr-CFFHtgEbF0ftXOI3GjlEEe1nXv8L0Sv2_-so)
 
 ### 2025 
-- Evaluating the environmental impact of cleaning the North Pacific Garbage Patch  
+- _Evaluating the environmental impact of cleaning the North Pacific Garbage Patch_  
 Matthias Egger, Andy M. Booth, Thijs Bosker, Gert Everaert, Samantha L. Garrard, Vilma Havas, Helga S. Huntley, Albert A. Koelmans,
-Karin Kvale, Laurent Lebreton, Helge Niemann, Qiaotong Pang, Maira Proietti, Peter Puskic, **Camille Richon**, Sarah‑Jeanne Royer, Matthew S. Savoca, Arjen Tjallema, Marjolein Vulpen, Yanxu Zhang, Ziman Zhang, Denise M. Mitrano Scientific Reports. [full text](https://doi.org/10.1038/s41598-025-00619-w)
+Karin Kvale, Laurent Lebreton, Helge Niemann, Qiaotong Pang, Maira Proietti, Peter Puskic, **Camille Richon**, Sarah‑Jeanne Royer, Matthew S. Savoca, Arjen Tjallema, Marjolein Vulpen, Yanxu Zhang, Ziman Zhang, Denise M. Mitrano  
+Scientific Reports. [full text](https://doi.org/10.1038/s41598-025-00619-w)
 
-- A call for early‑career teams in interdisciplinary microbiology research  
-Arianna I. Krinos, Daniel Muratore, Meriel J. Bittner, Preston Akenga, Leslie Wallace Auerbach, Michael Dills, Emile Faure, Edgart Flores, Naomi M. Levine, Thiago Monteiro, **Camille Richon**, Benjamin S. Twining
+- _A call for early‑career teams in interdisciplinary microbiology research_  
+Arianna I. Krinos, Daniel Muratore, Meriel J. Bittner, Preston Akenga, Leslie Wallace Auerbach, Michael Dills, Emile Faure, Edgart Flores, Naomi M. Levine, Thiago Monteiro, **Camille Richon**, Benjamin S. Twining  
 Nature Microbiology. [full text](https://doi.org/10.1038/s41564-025-02097-2)
 
 ### 2024
-- Exploring the Transport Path of Oceanic Microplastics in the Atmosphere  
-Silvia Bucci, **Camille Richon**, Lucie Bakels
+- _Exploring the Transport Path of Oceanic Microplastics in the Atmosphere_  
+Silvia Bucci, **Camille Richon**, Lucie Bakels  
 Environmental Science & Technology. [full text](https://doi.org/10.1021/acs.est.4c03216)
 
-- When to add a new process to a model – and when not: A marine biogeochemical perspective  
-Adrian P. Martin, Angela Bahamondes Dominguez, Chelsey A. Baker, Chloé M. J. Baumas, Kelsey M. Bisson, Emma Cavan, Mara Freilich, Eric Galbraith, Martí Galí, Stephanie Henson, Karin F. Kvale, Carsten Lemmen, Jessica Y. Luo, Helena McMonagle, Francisco de Melo Viríssimo, Klas Ove Möller, **Camille Richon**, Iyyappan Suresh, Jamie D. Wilson, Matthew S. Woodstock, Andrew Yool
+- _When to add a new process to a model – and when not: A marine biogeochemical perspective_  
+Adrian P. Martin, Angela Bahamondes Dominguez, Chelsey A. Baker, Chloé M. J. Baumas, Kelsey M. Bisson, Emma Cavan, Mara Freilich, Eric Galbraith, Martí Galí, Stephanie Henson, Karin F. Kvale, Carsten Lemmen, Jessica Y. Luo, Helena McMonagle, Francisco de Melo Viríssimo, Klas Ove Möller, **Camille Richon**, Iyyappan Suresh, Jamie D. Wilson, Matthew S. Woodstock, Andrew Yool  
 Ecological Modelling. [full text](https://doi.org/10.1016/j.ecolmodel.2024.110870)
 
-- Model exploration of microplastic effects on zooplankton grazing reveal potential impacts on the global carbon cycle  
-**Camille Richon**, Thomas Gorgues, Matthew Cole, Ika Paul‑Pont, Christophe Maes, Alessandro Tagliabue, Charlotte Laufkötter Environmental Research Letters. [full text](https://doi.org/10.1088/1748-9326/ad5195)
+- _Model exploration of microplastic effects on zooplankton grazing reveal potential impacts on the global carbon cycle_  
+**Camille Richon**, Thomas Gorgues, Matthew Cole, Ika Paul‑Pont, Christophe Maes, Alessandro Tagliabue, Charlotte Laufkötter  
+Environmental Research Letters. [full text](https://doi.org/10.1088/1748-9326/ad5195)
 
-- A global biogeography analysis reveals vulnerability of surface marine zooplankton to anthropogenic stressors  
-**Camille Richon**, Charlotte Wagner, Elsie M. Sunderland, Sakina‑Dorothée Ayata, Alessandro Tagliabue One Earth. [full text](https://doi.org/10.1016/j.oneear.2023.12.002)
+- _A global biogeography analysis reveals vulnerability of surface marine zooplankton to anthropogenic stressors_  
+**Camille Richon**, Charlotte Wagner, Elsie M. Sunderland, Sakina‑Dorothée Ayata, Alessandro Tagliabue  
+One Earth. [full text](https://doi.org/10.1016/j.oneear.2023.12.002)
 
 ### 2023
-- Influence of waves on the three‑dimensional distribution of plastic in the ocean  
-Raphaël Bajon, Thierry Huck, Nicolas Grima, Christophe Maes, Bruno Blanke, **Camille Richon**, Xavier Couvelard
+- _Influence of waves on the three‑dimensional distribution of plastic in the ocean_  
+Raphaël Bajon, Thierry Huck, Nicolas Grima, Christophe Maes, Bruno Blanke, **Camille Richon**, Xavier Couvelard  
 Marine Pollution Bulletin. [full text](https://doi.org/10.1016/j.marpolbul.2022.114533)
 
-- Legacy oceanic plastic pollution must be addressed to mitigate possible long‑term ecological impacts  
-**Camille Richon**, Karin Kvale, Laurent Lebreton, Matthias Egger
+- _Legacy oceanic plastic pollution must be addressed to mitigate possible long‑term ecological impacts_  
+**Camille Richon**, Karin Kvale, Laurent Lebreton, Matthias Egger  
 Microplastics and Nanoplastics. [full text](https://doi.org/10.1186/s43591-023-00074-2)
 
 ### 2022
-- Zooplankton exposure to microplastics at global scale: Influence of vertical distribution and seasonality  
-**Camille Richon**, Thomas Gorgues, Ika Paul‑Pont, Christophe Maes
+- _Zooplankton exposure to microplastics at global scale: Influence of vertical distribution and seasonality_  
+**Camille Richon**, Thomas Gorgues, Ika Paul‑Pont, Christophe Maes  
 Frontiers in Marine Science. [full text](https://doi.org/10.3389/fmars.2022.947309)
 
-- Sources, sinks, and cycling of dissolved organic copper binding ligands in the ocean  
-Angel Ruacho, **Camille Richon**, Hannah Whitby, Randelle M. Bundy
+- _Sources, sinks, and cycling of dissolved organic copper binding ligands in the ocean_  
+Angel Ruacho, **Camille Richon**, Hannah Whitby, Randelle M. Bundy  
 Communications Earth & Environment. [full text](https://doi.org/10.1038/s43247-022-00597-1)
 
 ### 2021
-- Biogeochemical feedbacks associated with the response of micronutrient recycling by zooplankton to climate change  
-**Camille Richon**, Alessandro Tagliabue
+- _Biogeochemical feedbacks associated with the response of micronutrient recycling by zooplankton to climate change_  
+**Camille Richon**, Alessandro Tagliabue  
 Global Change Biology. [full text](https://doi.org/10.1111/gcb.15789)
 
 ### 2020
-- Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin: A modelling
-study  
-R. Pagès, M. Baklouti, N. Barrier, **C. Richon**, J. ‑C. Dutay, T. Moutin
+- _Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin: A modelling
+study_  
+R. Pagès, M. Baklouti, N. Barrier, **C. Richon**, J. ‑C. Dutay, T. Moutin  
 Progress in Oceanography. [full text](https://doi.org/10.1016/j.pocean.2019.102242)
 
-- Prey Stoichiometry Drives Iron Recycling by Zooplankton in the Global Ocean  
-**Camille Richon**, Olivier Aumont, Alessandro Tagliabue
+- _Prey Stoichiometry Drives Iron Recycling by Zooplankton in the Global Ocean_  
+**Camille Richon**, Olivier Aumont, Alessandro Tagliabue  
 Frontiers in Marine Science. [full text](https://doi.org/10.3389/fmars.2020.00451)
 
 ### 2019
-- Biogeochemical response of the Mediterranean Sea to the transient SRES‑A2 climate change scenario  
-**Camille Richon**, Jean‑Claude Dutay, Laurent Bopp, Briac Le Vu, James C. Orr, Samuel Somot, François Dulac
-Biogeosciences. DOi: [full text](https://doi.org/10.5194/bg-16-135-2019)
+- _Biogeochemical response of the Mediterranean Sea to the transient SRES‑A2 climate change scenario_  
+**Camille Richon**, Jean‑Claude Dutay, Laurent Bopp, Briac Le Vu, James C. Orr, Samuel Somot, François Dulac  
+Biogeosciences. [full text](https://doi.org/10.5194/bg-16-135-2019)
 
-- Insights Into the Major Processes Driving the Global Distribution of Copper in the Ocean From a Global Model  
-**Camille Richon**, Alessandro Tagliabue.
+- _Insights Into the Major Processes Driving the Global Distribution of Copper in the Ocean From a Global Model_  
+**Camille Richon**, Alessandro Tagliabue  
 Global Biogeochemical Cycles. [full text](https://doi.org/10.1029/2019GB006280)
 
-- Simulating the Occurrence of the Last Sapropel Event (S1): Mediterranean Basin Ocean Dynamics Simulations Using Nd Isotopic Composition Modeling  
-T. Vadsaria, G. Ramstein, J.‑C. Dutay, L. Li, M. Ayache, **C. Richon**. Paleoceanography and Paleoclimatology. [full text](https://doi.org/10.1029/2019PA003566)
+- _Simulating the Occurrence of the Last Sapropel Event (S1): Mediterranean Basin Ocean Dynamics Simulations Using Nd Isotopic Composition Modeling_  
+T. Vadsaria, G. Ramstein, J.‑C. Dutay, L. Li, M. Ayache, **C. Richon**  
+Paleoceanography and Paleoclimatology. [full text](https://doi.org/10.1029/2019PA003566)
 
 ### 2018
-- An a posteriori species clustering for quantifying the effects of species interactions on ecosystem functioning  
-Benoît Jaillard, **Camille Richon**, Philippe Deleporte, Michel Loreau, Cyrille Violle
+- _An a posteriori species clustering for quantifying the effects of species interactions on ecosystem functioning_  
+Benoît Jaillard, **Camille Richon**, Philippe Deleporte, Michel Loreau, Cyrille Violle  
 Methods in Ecology and Evolution. [full text](https://doi.org/10.1111/2041-210X.12920)
 
-- Modeling the impacts of atmospheric deposition of nitrogen and desert dust‑derived phosphorus on nutrients and biological budgets of the
-Mediterranean Sea  
+- _Modeling the impacts of atmospheric deposition of nitrogen and desert dust‑derived phosphorus on nutrients and biological budgets of the
+Mediterranean Sea_  
 **Camille Richon**, Jean‑Claude Dutay, François Dulac, Rong Wang, Yves Balkanski, Pierre Nabat, Olivier Aumont, Karine Desboeufs,
-Benoı̂t Laurent, Cécile Guieu, Patrick Raimbault, Jonathan Beuvier
+Benoı̂t Laurent, Cécile Guieu, Patrick Raimbault, Jonathan Beuvier  
 Progress in Oceanography. [full text](https://doi.org/10.1016/j.pocean.2017.04.009)
 
 ------------------------------------------
