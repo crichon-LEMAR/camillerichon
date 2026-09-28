@@ -6,6 +6,10 @@ in_menu: true
 ## Peer-reviewed articles 
 Full updated list [here](https://scholar.google.com/citations?user=HpseYvUAAAAJ&hl=fr)
 ### 2026
+- _Simulating microplastic distribution in oceans: The impact of morphology and sources._  
+Anne Gaymard, **Camille Richon**, Matthias Egger, Laurent Lebreton, & Thomas Gorgues  
+Environmental Research Letters [full text](https://iopscience.iop.org/article/10.1088/1748-9326/aeaaf6/meta)
+
 - _From mercury to plastics: Earth system science and governance strategies_.  
 Dong Peng, Xinle Wang, Helene Angot, Michael S. Bank, Silvia Bucci, Hancheng Dai, Jianhua Gao, Roland Geyer, Xianda Gong, Gael Le Roux, Laurent C. M. Lebreton, Ting Lei, Daoji Li, Maodian Liu, Yurong Liu, **Camille Richon**, Amina Schartup, Huizhong Shen, Zhengcheng Song, Jeroen E. Sonke, Tim van Emmerik, Xuejun Wang, Peipei Wu, Qingru Wu, Xiang-Rong Xu, Xinyue Ye, Eddy Y. Zeng & Yanxu Zhang  
 npj Emerging Contaminants [full text](https://www.nature.com/articles/s44454-026-00056-y)
