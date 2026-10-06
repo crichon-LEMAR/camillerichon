@@ -13,7 +13,6 @@ My current research projects mostly focus on microplastic pollution and its impa
 
 **email: camille dot richon at univ-brest.fr**
 
-### New article out! [Check out the latest news](https://crichon-lemar.github.io/camillerichon/news.html)
 
  <img src="{% link images/wordcloud_october2025(1).jpg %}" alt="Wordcloud" width="800">
 
