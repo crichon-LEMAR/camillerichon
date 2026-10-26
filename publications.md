@@ -115,6 +115,11 @@ Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakov
 -------------------------------------------------------------
 
 ## Educational and Creative Communications
+<p align="center"><img src="{% link images/Couv_Plasticologie.png %}" alt="Couverture Plasticologie" width="250"> 
+</p>
+"Plasticologie, 50 scientifiques prennent la parole", Direction Scientifique Jean-François Gighlione, Texte Nelly Pons, Illustrations Pome Bernos, CNRS Editions, EAN : 9782271157379
+
+
 <p align="center"><img src="{% link images/Couverture_plastique_poison.png %}" alt="Couverture du livre" width="250"> 
 </p>
 C. Richon, ”Microplastiques et cycles biogéochimiques marins” (2024), dans Le plastique, un poison si pratique, Dir. C.
