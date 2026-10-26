@@ -4,10 +4,11 @@ order: 1
 in_menu: true
 ---
 ## Peer-reviewed articles 
-Full updated list [here](https://scholar.google.com/citations?user=HpseYvUAAAAJ&hl=fr)
+Full updated list [here](https://scholar.google.com/citations?user=HpseYvUAAAAJ&hl=fr)  
+*denotes papers first authored by supervised graduate student or postdoctoral scholar
 ### 2026
 - _Simulating microplastic distribution in oceans: The impact of morphology and sources._  
-Anne Gaymard, **Camille Richon**, Matthias Egger, Laurent Lebreton, & Thomas Gorgues  
+Anne Gaymard*, **Camille Richon**, Matthias Egger, Laurent Lebreton, & Thomas Gorgues  
 Environmental Research Letters [full text](https://iopscience.iop.org/article/10.1088/1748-9326/aeaaf6/meta)
 
 - _From mercury to plastics: Earth system science and governance strategies_.  
