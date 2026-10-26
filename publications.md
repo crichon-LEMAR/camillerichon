@@ -117,12 +117,11 @@ Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakov
 ## Educational and Creative Communications
 <p align="center"><img src="{% link images/plastiqueV2.jpg %}" alt="Couverture du livre" width="250"> 
 </p>
-C. Richon, ”Microplastiques et cycles biogéochimiques marins”      
 
-C. Richon, J-F Gighlione, V. Dettling, ”Les opérations de ramassage des plastiques, une fausse solution ?”  
-
-C. Richon, I. Paul-Pont, A. Huvet, Y. Quéré, T. Murovec, J. Rosebery, "Réduire les plastiques dans les laboratoires. L'exemple de l'IUEM"
-
+- C. Richon, ”Microplastiques et cycles biogéochimiques marins”  
+- C. Richon, J-F Gighlione, V. Dettling, ”Les opérations de ramassage des plastiques, une fausse solution ?”  
+- C. Richon, I. Paul-Pont, A. Huvet, Y. Quéré, T. Murovec, J. Rosebery, "Réduire les plastiques dans les laboratoires. L'exemple de l'IUEM"
+  
 dans Le plastique, un poison si pratique volume 2, 2026, Dir. M-F. Dignac, J-F. Gighlione, C. Prazuck, Les Essais de la Sorbonne, 350 pages, ISBN:9791023140262
 
 <p align="center"><img src="{% link images/plasticologie_bande.jpg %}" alt="Couverture Plasticologie" width="250"> 
