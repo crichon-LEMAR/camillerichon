@@ -116,8 +116,7 @@ Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakov
 -------------------------------------------------------------
 
 ## Educational and Creative Communications
-<p align="center"><img src="{% link images/plastiqueV2.jpg %}" alt="Couverture du livre" width="250"> 
-</p>
+
 
 - C. Richon, ”Microplastiques et cycles biogéochimiques marins”  
 - C. Richon, J-F Gighlione, V. Dettling, ”Les opérations de ramassage des plastiques, une fausse solution ?”  
@@ -125,8 +124,7 @@ Jeroen Sonke, Theo Segur, Ian Hough, Nela Dobiasova, Didier Voisin, Nadiia Yakov
   
 dans Le plastique, un poison si pratique volume 2, 2026, Dir. M-F. Dignac, J-F. Gighlione, C. Prazuck, Les Essais de la Sorbonne, 350 pages, ISBN:9791023140262
 
-<p align="center"><img src="{% link images/plasticologie_bande.jpg %}" alt="Couverture Plasticologie" width="250"> 
-</p>
+
 "Plasticologie, 50 scientifiques prennent la parole", Direction Scientifique Jean-François Gighlione, Texte Nelly Pons, Illustrations Pome Bernos, CNRS Editions, EAN : 9782271157379
 
 
