@@ -3,7 +3,7 @@ title: "Home"
 order: 0
 in_menu: true
 ---
-# Welcome to my page !
+# Welcome to my page !!
 <img src="{% link images/Richon_Camille-main.jpg %}" alt="Portrait Picture of Camille Richon" width="250">I am Dr Camille Richon, a biogeochemical oceanographer, currently working as a CNRS researcher at LEMAR in Brest, France. 
 My main research interests focus on anthropogenic impacts on ocean biogeochemistry. 
 
